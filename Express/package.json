@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon CRUD.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
