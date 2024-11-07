@@ -1,0 +1,4 @@
+Node.js is an open-source, cross-platform JavaScript runtime environment.
+Node.js allows developers to use JavaScript to write server-side scripts.
+When using Node.js, JavaScript can be used for both client-side and server-side.
+Node.js is popular among developers, and Node.js has a large community.
