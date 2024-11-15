@@ -1,5 +1,4 @@
-// call
-
+// // call
 
 // const person1 = {
 //     name: "John",
@@ -17,7 +16,7 @@
 
 
 
-// apply
+// // apply
 // const person1 = {
 //     name: "John",
 //     greet: function (greeting, punctuation) {
@@ -31,6 +30,7 @@
 
 // // Borrowing greet using apply() with arguments passed as an array
 // person1.greet.apply(person2, ["Hola", "!"]); // Hi, my name is Jane!
+
 
 
 
