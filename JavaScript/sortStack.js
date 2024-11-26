@@ -2,7 +2,7 @@ function sortStack(stack) {
     const temp = []
     while (stack.length > 0) {
         const current = stack.pop()
-        while (temp.length > 0 && temp[temp.length - 1] > current) {
+        while (temp.length > 0 && temp.at(-1) > current) {
             stack.push(temp.pop())
         }
         temp.push(current)

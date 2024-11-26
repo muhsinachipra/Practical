@@ -1,4 +1,4 @@
-import useToggle from "./practical/customHook";
+import useToggle from "./customHook";
 
 export default function ToggleComponent() {
   const [isVisible, toggleVisibility] = useToggle(false)
